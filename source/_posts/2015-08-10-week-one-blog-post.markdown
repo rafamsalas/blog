@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week Two Blog Post"
-date: 2015-08-10 17:50:38 -0500
+date: 2015-06-26 17:50:38 -0500
 comments: true
 categories:
 ---
