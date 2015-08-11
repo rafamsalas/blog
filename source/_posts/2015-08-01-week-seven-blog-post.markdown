@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Week Seven Blog Post"
+date: 2015-08-01 11:25:18 -0500
+comments: true
+categories:
+---
+# YWebCA Week Seven
+
+## Class Update
+ This was one of the more relaxed weeks so far. We've gone through chapter 3 and reviewed it, as well as read the entire fourth chapter of the book. Kinda wondering where the physical copies of the books are though; we were told that we'd have them about two weeks ago. Oh well, I've done most of my reading on Google Drive, with my own notes and highlighting there. Anyways, I'm ready for the chapter 4 worksheets and for knowing how to put all the pieces of JavaScript, HTML, and CSS together to make a good looking website. So far, I've been able to keep up with everything and a little more. I've also been really appreciative of MDN for all their help with CSS stuff. They've been a real big help in terms of finding useful tips and tools for CSS elements. Chris Coyier's CSS Tricks are really helpful, since there are a lot of things that I've tried to find explained very well by Chris Coyier. I really hope he'll be able to help us out for creating our sites, 'cause I know I will need a lot of help. So far, I've really enjoyed working with CSS. I kinda favor CSS simply because it seems versatile and really open when it comes to designing a site's content.
+
+ I think out of all three languages (HTML, CSS, and JS), I have to say that I like CSS the most, with JavaScript as a close second simply because I'm familiar to Java. HTML isn't my weak spot, per se, but I honestly prefer Markdown just because of its simplicity. I hope I'll later be able to figure out how to tie in Markdown so I'll save a lot of time rather than just building content with just HTML, since it's tedious at times. I don't mind HTML, I just think that if I need to create/structure a site's content real quick, I might as well just use Markdown.
+
+## Moar Personal Stuffz
+ I've been pretty busy in terms of side projects. Recently, I've been in some meetings for a student organization where we recently started a group project, called La Regeneracion, or Spanish for Regeneration. The point of the project is to have latin@ high school students conduct surveys with questions regarding issues in the latino community here in the Madison area, as well as issues latin@ students face. Later, the students, with the data they've gathered through the survey, will be able to present their information through any medium; from art to theater to presentations to info-graphs, so on and so forth. Anyways, we've been proactive in terms of working with high schools in Madison and the surrounding area to be part of the project. So far, we've created an application for students to join the project, set up possible meeting dates with several schools and organized transportation for students to have meetings in Centro Hispano, a community building here in Madison. It's been a little tiring but I really think that in the end, it'll be worth it.
+
+ I've also been busy with some applications for colleges and scholarships since I'm at the verge of entering into my senior year. I'm really looking forward to my last year of high school and my first year of college. I'm really hoping to go to UW-Madison, for various reasons. The main reason, though, is that it's a school that has a lot of meaning to me. I've been wanting to go to UW-Madison since the third grade, and it's only been upwards from there, in terms of wanting to go there. I've been in several pre-college programs that were sponsored by UW-Madison, which were absolutely amazing. I've been at several tours around campus, in which all of them have gotten me ecstatic to go here. I've also made friends with UW students and staff, all of which were superb and really helpful. Lastly, I've also made a promise with someone that I'd go to UW-Madison with them, and I don't want to disappoint them. Still, I'm a little unsure if I want to to Edgewood simply because of the agreement they have with my school.
+
+  You see, my school basically will give students full tuition at Edgewood College *if* they are going into education and are willing to become teachers for my school district. They also have a strong emphasis for students of color *and* those who are interested into teaching technology. Honestly, when I learned about the opportunity, it seemed too good to be true. Sure enough, though it was true. I've been thinking of going into Edgewood mostly because I'd be able to have free tuition for something I actually would like to learn (though I'm not so sure as to what to teach or major in) and to be able to teach, especially in the school district that I've been in for the majority of my life. Thing is, I'd need to be **sure** that I want to apply for Edgewood. In other words, no backing out; "this is your final decision" kinda shit. Luckly, I'll be able to have this opportunity as an alumni of my school, so I don't need to do this immediately after school.
+
+   Yet, at the same time, I might want to take a break for a while off of school and just take get A+ and CISCO certified at Madison College, which means I'd be certified to teach computer hardware and be certified by CISCO in networking. I don't really have any plans for going out of state or even out of Madison, but if I get accepted in a prestigious school, it'd be hard for me to not accept it. I really wish this was easier. Now that I've written a large wall of text, though, I seem to have come to a rather solid conclusion.
+
+   So this is my plan for college:
+   * Apply primarily for UW-Madison
+   * Apply separately for Edgewood, without the tuition agreement
+   * Apply for scholarships and hope I won't need student loans (Bernie for prez, pls)
+   * Apply for Madison College
+
+Seems like a *really* rough plan, but I think that with all the help I can get with friends, mentors, family, and teachers, as well as with the effort I put into this, I'll be able to go into my dream university and study somethi- shit, I don't even know what'll study for. *Fuck*, this is harder than I thought.
