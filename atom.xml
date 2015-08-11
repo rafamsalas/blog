@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://rafamsalas.github.io/blog/atom.xml" rel="self"/>
   <link href="http://rafamsalas.github.io/blog/"/>
-  <updated>2015-08-10T16:55:49-05:00</updated>
+  <updated>2015-08-11T12:25:20-05:00</updated>
   <id>http://rafamsalas.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,170 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Week Eight Blog Post]]></title>
+    <link href="http://rafamsalas.github.io/blog/blog/2015/08/10/week-eight-blog-post/"/>
+    <updated>2015-08-10T08:25:52-05:00</updated>
+    <id>http://rafamsalas.github.io/blog/blog/2015/08/10/week-eight-blog-post</id>
+    <content type="html"><![CDATA[<h1>YWebCA</h1>
+
+<h2>Week Eight Class Update</h2>
+
+<p>Wow, can&rsquo;t really believe that we&rsquo;re eight weeks in. Seems like we started less than a month ago. Anyways, this week was pretty cool. Monday, we got a bit of a surprise when we were told that the class would now be at Adorable&rsquo;s new office downtown. I kinda do like the aspect of being able to have class at a more work like setting, with the whole thing of being at an actual office. On the other hand, I kind of thought that the decision was a little last second and was questionable. I can understand why some people were not content when they were told about this. Parking is a disaster downtown, It&rsquo;ll take more time to go down there, and other stuff. Hopefully, the pros do outweigh the cons.</p>
+
+<p>I&rsquo;ve been trying some jQuery this week (pun not intended) and I feel that I&rsquo;ve got a real good idea around it. I don&rsquo;t find it too hard nor do I feel like it&rsquo;ll give me any trouble. I&rsquo;ve also looked into some CodePen projects that people have done with jQuery, and honestly, it&rsquo;s really amazing what people can do with it. I&rsquo;m hoping I&rsquo;ll be able to recreate something that is as cool as what people have done on CodePen.</p>
+
+<p>On Friday, we went to another field trip with the class. This time, we visited the office of ZenDesk by downtown Madison. Right off the bat, I could tell this was a pretty chill and refreshing place. A basic overview of ZenDesk, what they do and what it is, was given to use before the tour of the building. Basically, ZenDesk is used to create a better customer support and communication to the business that they offer their service to. The presentation was done in their cool kitchen/lunch room, which I thought was cool to have. We started the tour at the reception desk of the office, were there was a freaking living moss wall by the receptionist. No wonder the place seemed so fresh. We later got to see the desks of all the people that worked there, and I kinda got giddy at what was there. Instead of having dreaded cubicles that everyone seems to hate, the desks of each person, which by the way could change pretty easily (wish all jobs would have that), was side by side, next to one another. Everyone&rsquo;s desk was decorated to their own taste, with prizes, figurines, plushies, and other decorations. A lot of people also had whisky bottles as well. I saw that not only did people have Gundam, Superhero, and video game figurines (shout out the guy with the huge Murloc figure and a fucking Doomhammer replica), they also brought their own peripherals as well. I saw a guy with Ducky Shine 2 Keyboard, as well as a guy with the original Corsair K70 keyboard (red switches maybe? Didn&rsquo;t seem too quiet, so maybe browns) and another with a Das Keyboard (pretty sure they were blues; they were loud af). People also brought different monitors and monitor layouts, with one memorable one where two monitors were in a &lsquo;V&rsquo; formation. Seemed like a lot of people hate bezels; lots of thin bezel monitors. Later, during a great lunch of subs and salad, we had a small Q&amp;A session (kinda) with some of the employees in ZenDesk. You could tell that although they take this job seriously, they enjoy working here and are even loving it. They were really honest about the things they thought about the company, such as thinking there has to be catch to be in this company since it sounds to good to be true. The experience and knowledge we got out of this place was remarkable. Although I&rsquo;m very unlikely to get into ZenDesk since I don&rsquo;t have any experience with customer service, as well as not being too interested in doing that, I wouldn&rsquo;t mind working here at all and I have to give some mad respect for ZenDesk, especially since they have done a lot for the Madison community (they donated $75,000 to charity and have done a ton of community service hours as well). Honestly, props to them and I hope the best to the workers at ZenDesk.</p>
+
+<h2>Personal Stuff</h2>
+
+<p>This week consisted of a lot of planning and writing for my essays for college. I honestly think this is a little more exhausting than the class right now, considering the fact that this is a big and important part of my life right now. I was able, though, to have some time off this Friday. I few friends and I decided to just mess around at my place. We played some Injustice, DMC 4, Counter-Strike: Global Offensive, Rocket League (boy, that one was fun), some Halo 4, and the Expendabros we were able to beat that game in about 2 hours of mashing the crap out of buttons and keys (one friend had a PS4 controller, one had an Xbox One controller, one had an Xbox 360 controller and I had the keyboard and mouse). We had a lot of laughs together as well as just talking about how school&rsquo;s going to be like very soon. Honestly, it was a great time to just chill and hang out with some friends. I think I was little overdue with some fun at that point.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Week Seven Blog Post]]></title>
+    <link href="http://rafamsalas.github.io/blog/blog/2015/08/01/week-seven-blog-post/"/>
+    <updated>2015-08-01T11:25:18-05:00</updated>
+    <id>http://rafamsalas.github.io/blog/blog/2015/08/01/week-seven-blog-post</id>
+    <content type="html"><![CDATA[<h1>YWebCA Week Seven</h1>
+
+<h2>Class Update</h2>
+
+<p> This was one of the more relaxed weeks so far. We&rsquo;ve gone through chapter 3 and reviewed it, as well as read the entire fourth chapter of the book. Kinda wondering where the physical copies of the books are though; we were told that we&rsquo;d have them about two weeks ago. Oh well, I&rsquo;ve done most of my reading on Google Drive, with my own notes and highlighting there. Anyways, I&rsquo;m ready for the chapter 4 worksheets and for knowing how to put all the pieces of JavaScript, HTML, and CSS together to make a good looking website. So far, I&rsquo;ve been able to keep up with everything and a little more. I&rsquo;ve also been really appreciative of MDN for all their help with CSS stuff. They&rsquo;ve been a real big help in terms of finding useful tips and tools for CSS elements. Chris Coyier&rsquo;s CSS Tricks are really helpful, since there are a lot of things that I&rsquo;ve tried to find explained very well by Chris Coyier. I really hope he&rsquo;ll be able to help us out for creating our sites, &lsquo;cause I know I will need a lot of help. So far, I&rsquo;ve really enjoyed working with CSS. I kinda favor CSS simply because it seems versatile and really open when it comes to designing a site&rsquo;s content.</p>
+
+<p> I think out of all three languages (HTML, CSS, and JS), I have to say that I like CSS the most, with JavaScript as a close second simply because I&rsquo;m familiar to Java. HTML isn&rsquo;t my weak spot, per se, but I honestly prefer Markdown just because of its simplicity. I hope I&rsquo;ll later be able to figure out how to tie in Markdown so I&rsquo;ll save a lot of time rather than just building content with just HTML, since it&rsquo;s tedious at times. I don&rsquo;t mind HTML, I just think that if I need to create/structure a site&rsquo;s content real quick, I might as well just use Markdown.</p>
+
+<h2>Moar Personal Stuffz</h2>
+
+<p> I&rsquo;ve been pretty busy in terms of side projects. Recently, I&rsquo;ve been in some meetings for a student organization where we recently started a group project, called La Regeneracion, or Spanish for Regeneration. The point of the project is to have latin@ high school students conduct surveys with questions regarding issues in the latino community here in the Madison area, as well as issues latin@ students face. Later, the students, with the data they&rsquo;ve gathered through the survey, will be able to present their information through any medium; from art to theater to presentations to info-graphs, so on and so forth. Anyways, we&rsquo;ve been proactive in terms of working with high schools in Madison and the surrounding area to be part of the project. So far, we&rsquo;ve created an application for students to join the project, set up possible meeting dates with several schools and organized transportation for students to have meetings in Centro Hispano, a community building here in Madison. It&rsquo;s been a little tiring but I really think that in the end, it&rsquo;ll be worth it.</p>
+
+<p> I&rsquo;ve also been busy with some applications for colleges and scholarships since I&rsquo;m at the verge of entering into my senior year. I&rsquo;m really looking forward to my last year of high school and my first year of college. I&rsquo;m really hoping to go to UW-Madison, for various reasons. The main reason, though, is that it&rsquo;s a school that has a lot of meaning to me. I&rsquo;ve been wanting to go to UW-Madison since the third grade, and it&rsquo;s only been upwards from there, in terms of wanting to go there. I&rsquo;ve been in several pre-college programs that were sponsored by UW-Madison, which were absolutely amazing. I&rsquo;ve been at several tours around campus, in which all of them have gotten me ecstatic to go here. I&rsquo;ve also made friends with UW students and staff, all of which were superb and really helpful. Lastly, I&rsquo;ve also made a promise with someone that I&rsquo;d go to UW-Madison with them, and I don&rsquo;t want to disappoint them. Still, I&rsquo;m a little unsure if I want to to Edgewood simply because of the agreement they have with my school.</p>
+
+<p>  You see, my school basically will give students full tuition at Edgewood College <em>if</em> they are going into education and are willing to become teachers for my school district. They also have a strong emphasis for students of color <em>and</em> those who are interested into teaching technology. Honestly, when I learned about the opportunity, it seemed too good to be true. Sure enough, though it was true. I&rsquo;ve been thinking of going into Edgewood mostly because I&rsquo;d be able to have free tuition for something I actually would like to learn (though I&rsquo;m not so sure as to what to teach or major in) and to be able to teach, especially in the school district that I&rsquo;ve been in for the majority of my life. Thing is, I&rsquo;d need to be <strong>sure</strong> that I want to apply for Edgewood. In other words, no backing out; &ldquo;this is your final decision&rdquo; kinda shit. Luckly, I&rsquo;ll be able to have this opportunity as an alumni of my school, so I don&rsquo;t need to do this immediately after school.</p>
+
+<p>   Yet, at the same time, I might want to take a break for a while off of school and just take get A+ and CISCO certified at Madison College, which means I&rsquo;d be certified to teach computer hardware and be certified by CISCO in networking. I don&rsquo;t really have any plans for going out of state or even out of Madison, but if I get accepted in a prestigious school, it&rsquo;d be hard for me to not accept it. I really wish this was easier. Now that I&rsquo;ve written a large wall of text, though, I seem to have come to a rather solid conclusion.</p>
+
+<p>   So this is my plan for college:
+   * Apply primarily for UW-Madison
+   * Apply separately for Edgewood, without the tuition agreement
+   * Apply for scholarships and hope I won&rsquo;t need student loans (Bernie for prez, pls)
+   * Apply for Madison College</p>
+
+<p>Seems like a <em>really</em> rough plan, but I think that with all the help I can get with friends, mentors, family, and teachers, as well as with the effort I put into this, I&rsquo;ll be able to go into my dream university and study somethi- shit, I don&rsquo;t even know what&rsquo;ll study for. <em>Fuck</em>, this is harder than I thought.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Week Six Blog Post]]></title>
+    <link href="http://rafamsalas.github.io/blog/blog/2015/07/27/week-six-blog-post/"/>
+    <updated>2015-07-27T08:19:20-05:00</updated>
+    <id>http://rafamsalas.github.io/blog/blog/2015/07/27/week-six-blog-post</id>
+    <content type="html"><![CDATA[<h1>YWebCA</h1>
+
+<h2>Class Stuff</h2>
+
+<p>This has been one of the more laid back weeks, but it feels a little more rushed. I guess that a lot of work piled up in one week makes it seem more stressful. Anyways, I&rsquo;ve now finished chapter 3, with some help, and am being successful in CodeSchool. I&rsquo;ve been messing around with some CSS stuff on my HTML skeleton and also been busy helping some other people in the class. Honestly, I really like messing with CSS more than I do with HTML. I guess it&rsquo;s the aspect of being able to change HTML to practically whatever you have in mind. I&rsquo;ve been getting the hang of CSS with tons of help from Google and w3Schools. I still need more practice before I can really publish my own site, though. I really want to be able to use JavaScript with HTML and CSS just because of all the cool stuff I&rsquo;ve seen on Codepen. I&rsquo;d like to make some cool animations and effects for my website now that I&rsquo;ve seen what Javascript can be used for.</p>
+
+<h2>Personal Stuff</h2>
+
+<p>In regards to stuff outside of the class, I&rsquo;ve had a pretty good week. I hanged out with some friends, went to some places, eat some good food, and had a great time. I also spent some time with my family at Wisconsin Dells, mainly at Mt. Olympus. I really wanted to go to on Hades, but no one from my family wanted to go with me since the line for the ride was too long (the waiting time was around 90 minutes!). After I got back from the Dells, I went with some friends again and had a great time just messing around and eating pizza. So I gotta say; this was pretty good week.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Week Five Blog Post]]></title>
+    <link href="http://rafamsalas.github.io/blog/blog/2015/07/20/week-five-blog-post/"/>
+    <updated>2015-07-20T09:45:47-05:00</updated>
+    <id>http://rafamsalas.github.io/blog/blog/2015/07/20/week-five-blog-post</id>
+    <content type="html"><![CDATA[<h1>YWebCA</h1>
+
+<h2>An Eventful Week</h2>
+
+<p>So this week was when we started doing some stuff with functions in Javascript. We have finally reviewed chapter 2 of the Eloquent Javascript book and the worksheet, and have now started with both chapter 3, which involves functions and we have also started to do some HTML and CSS through CodeSchool. So far, it seems that everyone is up to pace as to what we have been doing this week.</p>
+
+<h2>Class Trip to Drifty&rsquo;s</h2>
+
+<p>On Friday, we took our first class trip to a local company here in Madison called Drifty, who is the company behind Ionic. Ionic is an SDK that is used to create native apps on both Android and iOS for websites and other stuff. We were able to get a nice tour of their office, which was pretty amazing. I really liked the ambiance and feel the place gave out. It was pretty chill and comforting, while still feeling productive. Anyways, we also had some Quizno&rsquo;s subs brought to us and ate while we watched two presentations, one from the CEO(!) of the company who gave us a good overview of Ionic, what it is, how to use it, and also did some live demonstrations on how it&rsquo;s so cool, and one from Firebase, a cloud service provider that does a lot of backend stuff, specifically on authenticating users through social media sites and accounts, such as Twitter and Facebook. The presenter also gave us a live coding example of how Firebase can be used in a chatroom setting by signing into Twitter. Overall, it was a great experience to have, as we all learned a lot about a usual tech company environment and workplace.</p>
+
+<h2>Closure</h2>
+
+<p>Anyways, this was a great week for the class. I was also able to go out with friends this weekend to the capitol, both from the course and from my personal life. Overall, it was awesome.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Week Four Blog Post]]></title>
+    <link href="http://rafamsalas.github.io/blog/blog/2015/07/13/week-four-blog-post/"/>
+    <updated>2015-07-13T09:37:53-05:00</updated>
+    <id>http://rafamsalas.github.io/blog/blog/2015/07/13/week-four-blog-post</id>
+    <content type="html"><![CDATA[<h1>YWebCA</h1>
+
+<h2>Intro</h2>
+
+<p>Can&rsquo;t really believe that we are over a third the way done with the course. We&rsquo;ve come a long way since we first started. Everyone has finished the Eloquent Javascript worksheet Chapter 2 and is ready for the next chapter. Now that the hardest part is over, we can now move on to functions and how to use them.</p>
+
+<h2>Teach the Class Something</h2>
+
+<p>On Wednesday, I presented my &ldquo;Teach the Classroom Something&rdquo; part for the course. I chose to talk about Simulated Protein Folding, specifically what it is and how one can get involved through folding@home and foldit. I guess that&rsquo;s about it for this section.</p>
+
+<h2>Madison+ UX Conference</h2>
+
+<p>YWebCA was invited to go to the Madison+ UX Conference Friday and Saturday, where UX designers from all over the country meet up in one of the biggest UX conferences in the US. I was surprised and a litte sad that this was going to be the last Madison+ UX conference ever since I was planning to go to next year&rsquo;s conference as well. Overall, I enjoyed the whole conference, since I learned a lot about the world of User Experience as well as learning about companies involved with it, locally and out of state. The presentations and speakers were amazing, with Chris Coyer&rsquo;s presentation being my absolute favorite in the conference. I was also able to get some free stuff, as well as eating on State Street, which was filled with great food.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Week Three Blog Post]]></title>
+    <link href="http://rafamsalas.github.io/blog/blog/2015/07/06/week-three-blog-post/"/>
+    <updated>2015-07-06T09:47:44-05:00</updated>
+    <id>http://rafamsalas.github.io/blog/blog/2015/07/06/week-three-blog-post</id>
+    <content type="html"><![CDATA[<h1>YWebCA</h1>
+
+<p>I am now three weeks into the YWebCA program and I am feeling real good right now. I&rsquo;ve been on top of all my stuff recently, which I&rsquo;ve been able to do with the ability to bring the laptop home now. I&rsquo;ve really liked seeing what this class has come to in terms of being out there for one another. Everyone is able to help each other out and teach one another very well, while having a great attitude and having fun as well.</p>
+
+<p>We are now practically done with the second chapter of the Eloquent JavaScript worksheet, which was very subject-heavy in terms of content. I was able to finish quite early so I&rsquo;ve been able to help others to finish the chapter as well. I was actually very surprised at how much content we learned in one chapter since I learned the same things when I learned Java but at a much slower pace in my high school class. We took less than a week to learn what a high school class learns in around 3 months. If that&rsquo;s not impressive, I don&rsquo;t know what is.</p>
+
+<p>Anyways, on Friday, our class was split into two to simulate a company using Scrum. I&rsquo;ve heard of Scrum before, mostly from the show &ldquo;Silicon Valley&rdquo;, but have not really done it. Although it was my first time that I&rsquo;ve used Scrum, I noticed how great it is to organize a team and how effective it is in terms of managing time. Honestly, I would love to become a Scrum master for a company if needed.</p>
+
+<p>So far, this week has been great. Looking forward to next week as we are now organizing potlucks and continuing with the Scrum experience.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Week Two Blog Post]]></title>
+    <link href="http://rafamsalas.github.io/blog/blog/2015/06/26/week-one-blog-post/"/>
+    <updated>2015-06-26T17:50:38-05:00</updated>
+    <id>http://rafamsalas.github.io/blog/blog/2015/06/26/week-one-blog-post</id>
+    <content type="html"><![CDATA[<h1>YWebCA</h1>
+
+<h2>First Update</h2>
+
+<p>Wow, this week was packed with information, especially compared with the first week. We learned a lot about git commands, terminal commands, logic operators and more. We also started with JavaScript, with a very cool way to check our answers for our first worksheet using Jasmine.</p>
+
+<p>I also started doing some outside work, specifically with the logic puzzles we were given Tuesday. I was able to finish up all of the puzzles early, although I think I spent too much time on the puzzles, especially considering that one of the puzzles literally had the answers under my nose, as it was later discussed on the page that the puzzles were on.</p>
+
+<p>In regards to JavaScript, it is <em>very</em> similar to Java, so it was very familiar to me and I was able to finish the first worksheet fairly quickly. I have taken a look at the courses offered by CodeSchool, and I feel very familiar with the syntax and the structure of JavaScript. Of course, I will try not to jet ahead too much and be cautious of differences from the two languages, just so I don&rsquo;t get the languages mixed up or something like that. All in all, I really like how the teaching is laid out as of now. We first read a chapter from <em>Eloquent JavaScript</em> by Marjin Haverbeke, which is probably one of the best books on programming I have read, although that list is fairly short. We take notes, highlight, and discuss about topics and subjects covered in the chapter. Later, we work on a worksheet to evaluate our knowledge that we have graspedfrom the chapter. Honestly, this is a <em>way</em> better format of learning than most teachers. Or it may just be the classroom setting, the teachers, the topics, or the amount of time spent on the subject. Or all of those.</p>
+
+<h3>Random stuff and Thoughts</h3>
+
+<p>Although I have loved this class so far, one thing is on my mind; the lunch food, which always consists of pizza. I mean, don&rsquo;t get me wrong, I love pizza, from classic pepperoni, cheese, mac &amp; cheese, buffalo chicken (which is heaven) and Hawaiian, but when you have pizza pies every other day, it gets a little tiring. I thought I was able to accept the fact that I am willing to eat pizza every other day, but it hasn&rsquo;t been like that recently. My stomach isn&rsquo;t adjusted to eat REALLY greasy food, especially for several days a week. Plus, I would like to eat something a little more on the lighter side, such as a salad or a sub. I believe that not only do you need a healthy and working mind for any kind of work involved with critical thinking and any form of programming/web development, but a healthy and working body as well, so the whole aspect of having pizza for lunch consistently is something I can&rsquo;t agree with completely, especially when considering that we sit around for more that <em>7 hours a day</em> in this classroom.</p>
+
+<p>Anyways, this class has been awesome so far, and I&rsquo;m really looking forward to learning more in the class, both for gaining work experience and learning about web development.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://rafamsalas.github.io/blog/blog/2015/08/10/first-post/"/>
-    <updated>2015-08-10T16:41:42-05:00</updated>
-    <id>http://rafamsalas.github.io/blog/blog/2015/08/10/first-post</id>
-    <content type="html"><![CDATA[
+    <link href="http://rafamsalas.github.io/blog/blog/2015/06/19/first-post/"/>
+    <updated>2015-06-19T16:41:42-05:00</updated>
+    <id>http://rafamsalas.github.io/blog/blog/2015/06/19/first-post</id>
+    <content type="html"><![CDATA[<h1>YWebCA</h1>
+
+<h2>Welcome to my Blog!</h2>
+
+<p>This is my first post for this blog. I&rsquo;m honestly excited for the rest of this course at this point. It&rsquo;s been quite an awesome first week and I believe this will be only one of many great weeks to come. So far, everyone is chill with one another and the class has an amazing atmosphere. The food was, unexpectedly, really, great with variety and what not. The potluck on Friday was absolutly incredible, since everyone brought something for the potluck and everyone had a great time. Since then, I have really connected with some of the classmates and met some friends that are taking the class with me as well.</p>
+
+<p>I guess this is it for now, since I don&rsquo;t really have anything to add right now, but I do know that by the end of the course I&rsquo;ll have tons more to add to this blog.</p>
 ]]></content>
   </entry>
   
